@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FullScreen.cpp" />
+    <ClCompile Include="Transfrom.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ed6240bc-5f3c-4e15-aeb2-dcc732fc00b8}</ProjectGuid>
-    <RootNamespace>My06FullScreen</RootNamespace>
+    <ProjectGuid>{3f2e9f36-9ccb-46f1-bd31-1084a4c03611}</ProjectGuid>
+    <RootNamespace>My01Transfrom</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
